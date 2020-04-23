@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Угадай счёт</string>
-
+    <string name="facebook_app_id">489114385353166</string>
+    <string name="fb_login_protocol_scheme">fb489114385353166</string>
 </resources>
