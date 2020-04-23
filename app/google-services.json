@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437782073232",
+    "firebase_url": "https://com-sameluck-qrla.firebaseio.com",
+    "project_id": "com-sameluck-qrla",
+    "storage_bucket": "com-sameluck-qrla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437782073232:android:c1871c2dd0dbdbec9aad15",
+        "android_client_info": {
+          "package_name": "com.sameluck.qrla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437782073232-2h0mqjv0c4fbbr1gb3bbnlhfl0thr1ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sameluck.qrla",
+            "certificate_hash": "fb598fed967a79ee002e5dc6ea86ece399a9e0cd"
+          }
+        },
+        {
+          "client_id": "437782073232-ntdn1fucli8miot7uh74m6lb1fuih211.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWMfBTlhxSlQdxFjQYWW9tEqTLYGYlx7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437782073232-ntdn1fucli8miot7uh74m6lb1fuih211.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
